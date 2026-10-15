@@ -1,0 +1,10 @@
+OTT Viewer Engagement & Retention Risk Analysis
+==================================================
+
+Rows in cleaned dataset: 33171
+Columns in cleaned dataset: 24
+Exported tables/data files: 17
+Generated charts: 15
+
+Chart values are generated from the notebook's current DataFrames.
+Review the chart labels and metrics before interpreting results.

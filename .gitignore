@@ -1,0 +1,11 @@
+
+Set-Location "F:\portfolio\Projects\OTT_Viewer_Engagement"
+
+@"
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pyc
+"@ | Set-Content -Encoding utf8 .gitignore
